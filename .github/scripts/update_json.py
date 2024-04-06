@@ -28,6 +28,7 @@ def get_latest_and_latest_pre_release(repo):
     return latest_release, latest_pre_release
 
 def fetch_manifest(repo):
+    name = repo.split("/")[1]
     url = f"https://raw.githubusercontent.com/{repo}/main/{repo}/{repo}.json"
     response = requests.get(url)
     response.raise_for_status()
