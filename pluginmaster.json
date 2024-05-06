@@ -26,7 +26,7 @@
         "AcceptsFeedback": true,
         "DownloadLinkInstall": "https://github.com/ArchiDog1998/ActionTimelineEx/releases/download/v1.3.6/latest.zip",
         "DownloadLinkUpdate": "https://github.com/ArchiDog1998/ActionTimelineEx/releases/download/v1.3.6/latest.zip",
-        "DownloadCount": 667,
+        "DownloadCount": 668,
         "Changelog": "## [1.3.6](https://github.com/ArchiDog1998/ActionTimelineEx/compare/v1.3.5...v1.3.6) (2024-03-27)\n\n\n### Bug Fixes\n\n* add an option for hide in cutscene. ([4eec607](https://github.com/ArchiDog1998/ActionTimelineEx/commit/4eec60791aca29385934ca3d2c348e9bd4558b21))\n* add an option for hiding in quest event. ([b4380a9](https://github.com/ArchiDog1998/ActionTimelineEx/commit/b4380a97e68374206ae14af42830fad94fdb5d40))\n* better icon. ([be6eaa0](https://github.com/ArchiDog1998/ActionTimelineEx/commit/be6eaa0f24d20a9f6ea71ece1b744da1b138f0fd))\n* gcd check. ([faa2e7f](https://github.com/ArchiDog1998/ActionTimelineEx/commit/faa2e7fe49d02cc4598e09d59a5be80ef964dde5))\n* ui hidden fix. ([20e72e5](https://github.com/ArchiDog1998/ActionTimelineEx/commit/20e72e5f4a79e72e84fa61bc5651b36bc82ae5e0))\n* work flow. ([1dc09b9](https://github.com/ArchiDog1998/ActionTimelineEx/commit/1dc09b9b513b30561bc0bf595448af8d5aaea7fa))"
     },
     {
