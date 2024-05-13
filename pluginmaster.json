@@ -3,7 +3,7 @@
         "Author": "Tischel, ArchiTed",
         "Name": "ActionTimelineEx",
         "InternalName": "ActionTimelineEx",
-        "AssemblyVersion": "v1.3.7",
+        "AssemblyVersion": "v1.3.8",
         "Description": "Configurable timeline display of all the actions you use.",
         "ApplicableVersion": "any",
         "RepoUrl": "https://github.com/ArchiDog1998/ActionTimelineEx",
@@ -24,10 +24,10 @@
         "IconUrl": "https://xivapi.com/i/000000/000073_hr1.png",
         "Punchline": "Show your actions in real-time.",
         "AcceptsFeedback": true,
-        "DownloadLinkInstall": "https://github.com/ArchiDog1998/ActionTimelineEx/releases/download/v1.3.7/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/ArchiDog1998/ActionTimelineEx/releases/download/v1.3.7/latest.zip",
+        "DownloadLinkInstall": "https://github.com/ArchiDog1998/ActionTimelineEx/releases/download/v1.3.8/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/ArchiDog1998/ActionTimelineEx/releases/download/v1.3.8/latest.zip",
         "DownloadCount": 669,
-        "Changelog": "## [1.3.7](https://github.com/ArchiDog1998/ActionTimelineEx/compare/v1.3.6...v1.3.7) (2024-05-11)\n\n\n### Bug Fixes\n\n* repo name. ([7f4476c](https://github.com/ArchiDog1998/ActionTimelineEx/commit/7f4476c9d28c4a32f83c9940729b7dca3537e70c))\n* work flow repo. ([61d6922](https://github.com/ArchiDog1998/ActionTimelineEx/commit/61d6922be1bbb5e4ad25d09dac662913cb9b338b))"
+        "Changelog": "## [1.3.8](https://github.com/ArchiDog1998/ActionTimelineEx/compare/v1.3.7...v1.3.8) (2024-05-12)\n\n\n### Bug Fixes\n\n* change the ui. ([8c61c6b](https://github.com/ArchiDog1998/ActionTimelineEx/commit/8c61c6b8d173d024381b832cb61c4b5374f983b8))"
     },
     {
         "Author": "ArchiTed, matrix",
