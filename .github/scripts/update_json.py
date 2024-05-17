@@ -33,8 +33,6 @@ def fetch_manifest(repo):
     response = requests.get(url)
     response.raise_for_status()
     data = response.json()
-    if("IsTestingExclusive" not in data):
-        data["IsTestingExclusive"] = False
     return data
 
 def append_changelog(manifest, latest_release):
@@ -42,10 +40,9 @@ def append_changelog(manifest, latest_release):
     return manifest
 
 def append_manifest(manifest, latest_release, latest_pre_release):
-    manifest["LastUpdate"] = 0
     if latest_release:
         manifest["DownloadLinkInstall"] = latest_release["assets"][0]["browser_download_url"]
-        manifest["AssemblyVersion"] = latest_release["tag_name"]
+        manifest["AssemblyVersion"] = latest_release["tag_name"][1:]
         manifest["DownloadLinkUpdate"] = latest_release["assets"][0]["browser_download_url"]
     if latest_pre_release:
         manifest["DownloadLinkTesting"] = latest_pre_release["assets"][0]["browser_download_url"]
