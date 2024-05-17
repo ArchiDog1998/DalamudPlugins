@@ -32,8 +32,7 @@ def fetch_manifest(repo):
     url = f"https://raw.githubusercontent.com/{repo}/main/{name}/{name}.json"
     response = requests.get(url)
     response.raise_for_status()
-    data = response.json()
-    return data
+    return response.json()
 
 def append_changelog(manifest, latest_release):
     manifest["Changelog"] = latest_release["body"]
@@ -46,7 +45,7 @@ def append_manifest(manifest, latest_release, latest_pre_release):
         manifest["DownloadLinkUpdate"] = latest_release["assets"][0]["browser_download_url"]
     if latest_pre_release:
         manifest["DownloadLinkTesting"] = latest_pre_release["assets"][0]["browser_download_url"]
-        manifest["TestingAssemblyVersion"] = latest_pre_release["tag_name"]
+        manifest["TestingAssemblyVersion"] = latest_pre_release["tag_name"][1:]
     return manifest
 
 def append_download_count(manifest, repo):
