@@ -45,7 +45,7 @@ def fetch_manifest(repo):
                 run = True
                 data.pop(key)
                 break
-    return json.dumps(data)
+    return data
 
 def append_changelog(manifest, latest_release):
     manifest["Changelog"] = latest_release["body"]
