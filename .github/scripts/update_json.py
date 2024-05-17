@@ -32,7 +32,14 @@ def fetch_manifest(repo):
     url = f"https://raw.githubusercontent.com/{repo}/main/{name}/{name}.json"
     response = requests.get(url)
     response.raise_for_status()
-    return response.json()
+    data = response.json()
+    validField = ["Author", "Name", "Punchline", "Description","Tags","InternalName", "RepoUrl","DownloadCount","LastUpdate",
+        "ApplicableVersion", "DalamudApiLevel", "IconUrl"]
+    for key in data.keys():
+        if(key in validField):
+            continue
+        data.pop(key)
+    return data
 
 def append_changelog(manifest, latest_release):
     manifest["Changelog"] = latest_release["body"]
