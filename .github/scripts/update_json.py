@@ -35,11 +35,17 @@ def fetch_manifest(repo):
     data = response.json()
     validField = ["Author", "Name", "Punchline", "Description","Tags","InternalName", "RepoUrl","DownloadCount","LastUpdate",
         "ApplicableVersion", "DalamudApiLevel", "IconUrl"]
-    json_data = {}
-    for key in data.keys():
-        if(key in validField):
-            json_data[key] = data[key]
-    return json.dumps(json_data)
+    run = True
+    while(run):
+        run = False
+        for key in data.keys():
+            if(key in validField):
+                continue
+            else :
+                run = True
+                data.pop(key)
+                break
+    return json.dumps(data)
 
 def append_changelog(manifest, latest_release):
     manifest["Changelog"] = latest_release["body"]
