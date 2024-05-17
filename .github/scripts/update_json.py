@@ -33,18 +33,8 @@ def fetch_manifest(repo):
     response = requests.get(url)
     response.raise_for_status()
     data = response.json()
-    validField = ["Author", "Name", "Punchline", "Description","Tags","InternalName", "RepoUrl","DownloadCount","LastUpdate",
-        "ApplicableVersion", "DalamudApiLevel", "IconUrl"]
-    run = True
-    while(run):
-        run = False
-        for key in data.keys():
-            if(key in validField):
-                continue
-            else :
-                run = True
-                data.pop(key)
-                break
+    if("IsTestingExclusive" not in data):
+        data["IsTestingExclusive"] = False
     return data
 
 def append_changelog(manifest, latest_release):
@@ -52,6 +42,7 @@ def append_changelog(manifest, latest_release):
     return manifest
 
 def append_manifest(manifest, latest_release, latest_pre_release):
+    manifest["LastUpdate"] = 0
     if latest_release:
         manifest["DownloadLinkInstall"] = latest_release["assets"][0]["browser_download_url"]
         manifest["AssemblyVersion"] = latest_release["tag_name"]
