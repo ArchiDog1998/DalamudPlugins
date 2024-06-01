@@ -56,7 +56,10 @@ def append_download_count(manifest, repo):
 
     download_count = 0
     for release in releases:
-        download_count += release["assets"][0]["download_count"]
+        try:
+            download_count += release["assets"][0]["download_count"]
+        except:
+            pass
 
     manifest["DownloadCount"] = download_count
     return manifest
