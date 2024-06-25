@@ -54,7 +54,7 @@
         "AcceptsFeedback": true,
         "DownloadLinkInstall": "https://github.com/ArchiDog1998/FakeName/releases/download/v1.2.0/latest.zip",
         "DownloadLinkUpdate": "https://github.com/ArchiDog1998/FakeName/releases/download/v1.2.0/latest.zip",
-        "DownloadCount": 1483,
+        "DownloadCount": 1484,
         "Changelog": "## [1.2.0](https://github.com/ArchiDog1998/FakeName/compare/v1.1.2...v1.2.0) (2024-05-11)\n\n\n### Features\n\n* add fcName replace. ([9ec34f8](https://github.com/ArchiDog1998/FakeName/commit/9ec34f86c1e68307183b18e8f78ca339631b5a93)), closes [#33](https://github.com/ArchiDog1998/FakeName/issues/33)\n\n\n### Bug Fixes\n\n* links and the l10n. ([6745c86](https://github.com/ArchiDog1998/FakeName/commit/6745c8642139c6cc70065b75dcbbaaea82875baf))\n* ui fix. ([b5c7665](https://github.com/ArchiDog1998/FakeName/commit/b5c766553b15b25c1e0a03e341c28cf13c2bc45f))"
     },
     {
@@ -82,7 +82,7 @@
         "AcceptsFeedback": true,
         "DownloadLinkInstall": "https://github.com/ArchiDog1998/RotationSolver/releases/download/v5.0.3/latest.zip",
         "DownloadLinkUpdate": "https://github.com/ArchiDog1998/RotationSolver/releases/download/v5.0.3/latest.zip",
-        "DownloadCount": 8138,
+        "DownloadCount": 8173,
         "Changelog": "## [5.0.3](https://github.com/ArchiDog1998/RotationSolver/compare/v5.0.2...v5.0.3) (2024-06-13)\n\n\n### Bug Fixes\n\n* add more configs for target related drawings. ([d603768](https://github.com/ArchiDog1998/RotationSolver/commit/d603768846d14a09eca7ba57988751292447f81d))\n* add rotations version warning. ([3cd8a87](https://github.com/ArchiDog1998/RotationSolver/commit/3cd8a871f8006f6ad20e884f1bdc246e8c6e4d21))\n* add the target type things. ([8a3272d](https://github.com/ArchiDog1998/RotationSolver/commit/8a3272d0568bc499d3199e919bcd959fb2ed71ff))\n* better rating popup. ([43acacd](https://github.com/ArchiDog1998/RotationSolver/commit/43acacde1127fa3ccf539c70a544c76cddbc15c4))\n* config fix.. ([6e5c7d5](https://github.com/ArchiDog1998/RotationSolver/commit/6e5c7d5e27148d08762bb4d46d5d122e01def22f))\n* defense single for tanks. ([09a80a0](https://github.com/ArchiDog1998/RotationSolver/commit/09a80a06565f4dff19f8c0352086ed69a78203e6))\n* make rotation updater simple. ([8fae4ef](https://github.com/ArchiDog1998/RotationSolver/commit/8fae4ef3d0a2ed3dad8dc70ad4cfcc170d065b4a))\n* rotation choice fix. ([9148385](https://github.com/ArchiDog1998/RotationSolver/commit/9148385cd9be9bd6c72bc9e1653785c8d85895c9))\n* try to add the condition drawer. ([589f5ae](https://github.com/ArchiDog1998/RotationSolver/commit/589f5aef6de3fef0a74e77e3f94e773811b5d95f))\n* use overlay window for target related drawing  fix. ([288e2f5](https://github.com/ArchiDog1998/RotationSolver/commit/288e2f5aca403b6e198715fa48cc80abae8a4993))\n* warning fix and rating ui fix. ([1b6ede1](https://github.com/ArchiDog1998/RotationSolver/commit/1b6ede11ed6660ab49afb4344b62d99081fee2eb))"
     }
 ]
