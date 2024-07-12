@@ -23,11 +23,11 @@
         "IconUrl": "https://xivapi.com/i/000000/000073_hr1.png",
         "Punchline": "Show your actions in real-time.",
         "AcceptsFeedback": true,
-        "DownloadLinkInstall": "https://github.com/ArchiDog1998/ActionTimelineEx/releases/download/v1.4.1/latest.zip",
-        "AssemblyVersion": "1.4.1",
-        "DownloadLinkUpdate": "https://github.com/ArchiDog1998/ActionTimelineEx/releases/download/v1.4.1/latest.zip",
-        "DownloadCount": 907,
-        "Changelog": "## [1.4.1](https://github.com/ArchiDog1998/ActionTimelineEx/compare/v1.4.0...v1.4.1) (2024-07-12)\n\n\n### Bug Fixes\n\n* add reset fix. ([1c44a17](https://github.com/ArchiDog1998/ActionTimelineEx/commit/1c44a17146f9a0e84f643d2f394da027280ff487))\n* better ui, and add copy paste features. ([656d20c](https://github.com/ArchiDog1998/ActionTimelineEx/commit/656d20c8e1f24e7f1ee9848917b2c40aee64e9a6))"
+        "DownloadLinkInstall": "https://github.com/ArchiDog1998/ActionTimelineEx/releases/download/v1.4.2/latest.zip",
+        "AssemblyVersion": "1.4.2",
+        "DownloadLinkUpdate": "https://github.com/ArchiDog1998/ActionTimelineEx/releases/download/v1.4.2/latest.zip",
+        "DownloadCount": 913,
+        "Changelog": "## [1.4.2](https://github.com/ArchiDog1998/ActionTimelineEx/compare/v1.4.1...v1.4.2) (2024-07-12)\n\n\n### Bug Fixes\n\n* key item fix and remove item fix. ([a4cf0fc](https://github.com/ArchiDog1998/ActionTimelineEx/commit/a4cf0fc1376724e783252c9806cf119c0e50ae8a))"
     },
     {
         "Author": "ArchiTed",
@@ -82,7 +82,7 @@
         "DownloadLinkInstall": "https://github.com/ArchiDog1998/RotationSolver/releases/download/v5.1.3/latest.zip",
         "AssemblyVersion": "5.1.3",
         "DownloadLinkUpdate": "https://github.com/ArchiDog1998/RotationSolver/releases/download/v5.1.3/latest.zip",
-        "DownloadCount": 9355,
+        "DownloadCount": 9429,
         "Changelog": "## [5.1.3](https://github.com/ArchiDog1998/RotationSolver/compare/v5.1.2...v5.1.3) (2024-07-12)\n\n\n### Bug Fixes\n\n* add listen to action time line thing! ([b2027df](https://github.com/ArchiDog1998/RotationSolver/commit/b2027dfb398429dc92f6d8a3deb05fea878fa8af))\n* better highlight. ([396d1cc](https://github.com/ArchiDog1998/RotationSolver/commit/396d1cc6917c3cec265f22697727114f1de06701))\n* local fix. ([0de953e](https://github.com/ArchiDog1998/RotationSolver/commit/0de953e67e8510e3993cf5fc81d09631573295d4))\n* movement draw fix... ([86cdc96](https://github.com/ArchiDog1998/RotationSolver/commit/86cdc964e325dabb74800c567148790c0c2e0a36))"
     }
 ]
