@@ -1,3 +1,4 @@
 ArchiDog1998/ActionTimelineEx
 ArchiDog1998/FakeName
 ArchiDog1998/RotationSolver
+ArchiDog1998/QuestSolver
