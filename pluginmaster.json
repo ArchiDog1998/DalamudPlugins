@@ -26,7 +26,7 @@
         "DownloadLinkInstall": "https://github.com/ArchiDog1998/ActionTimelineEx/releases/download/v1.4.12/latest.zip",
         "AssemblyVersion": "1.4.12",
         "DownloadLinkUpdate": "https://github.com/ArchiDog1998/ActionTimelineEx/releases/download/v1.4.12/latest.zip",
-        "DownloadCount": 1195,
+        "DownloadCount": 1204,
         "Changelog": "## [1.4.12](https://github.com/ArchiDog1998/ActionTimelineEx/compare/v1.4.11...v1.4.12) (2024-07-24)\n\n\n### Bug Fixes\n\n* add draw time. ([8106cf7](https://github.com/ArchiDog1998/ActionTimelineEx/commit/8106cf75523376e7f32a8bb4ea1c28954932b0d7))\n* json save update! ([67928aa](https://github.com/ArchiDog1998/ActionTimelineEx/commit/67928aae67257733a3cb536a61819a6ea9f32e9d))\n* removed the toggle feature. You can use the macro. ([7d0fea7](https://github.com/ArchiDog1998/ActionTimelineEx/commit/7d0fea77612395d97b35a3b8a021da22ab056a61))"
     },
     {
@@ -51,11 +51,11 @@
         "IconUrl": "https://raw.githubusercontent.com/ArchiDog1998/FakeName/main/icon.png",
         "Punchline": "Show a fake name on your game ui.",
         "AcceptsFeedback": true,
-        "DownloadLinkInstall": "https://github.com/ArchiDog1998/FakeName/releases/download/v1.2.1/latest.zip",
-        "AssemblyVersion": "1.2.1",
-        "DownloadLinkUpdate": "https://github.com/ArchiDog1998/FakeName/releases/download/v1.2.1/latest.zip",
-        "DownloadCount": 1758,
-        "Changelog": "## [1.2.1](https://github.com/ArchiDog1998/FakeName/compare/v1.2.0...v1.2.1) (2024-07-07)\n\n\n### Bug Fixes\n\n* add changeLog link. ([453c9ec](https://github.com/ArchiDog1998/FakeName/commit/453c9ec71772fcc2da8878da5e38c0fe216bca7b))\n* add show donate option. ([fd204ee](https://github.com/ArchiDog1998/FakeName/commit/fd204eeb0ce5de2b495a7759ece8d553933d53c7))\n* api 10. ([aee2967](https://github.com/ArchiDog1998/FakeName/commit/aee29670fd77e0207d6badd0995ab9eb730d7b7d))\n* make it work! ([18fb962](https://github.com/ArchiDog1998/FakeName/commit/18fb9625c8595254addd2d84c6641624c0aab6a6))\n* some naming things. ([5e105bb](https://github.com/ArchiDog1998/FakeName/commit/5e105bb7b349fb24e21293042192a30bf7deb0ae))\n* version fix ([3255cda](https://github.com/ArchiDog1998/FakeName/commit/3255cdab8c48468c49203b169e9ac298c6f9fdac))"
+        "DownloadLinkInstall": "https://github.com/ArchiDog1998/FakeName/releases/download/v1.2.2/latest.zip",
+        "AssemblyVersion": "1.2.2",
+        "DownloadLinkUpdate": "https://github.com/ArchiDog1998/FakeName/releases/download/v1.2.2/latest.zip",
+        "DownloadCount": 1761,
+        "Changelog": "## [1.2.2](https://github.com/ArchiDog1998/FakeName/compare/v1.2.1...v1.2.2) (2024-07-25)\n\n\n### Bug Fixes\n\n* better nameplate. but not perfect. ([2dd43cd](https://github.com/ArchiDog1998/FakeName/commit/2dd43cd1a03936c2e4a0697bba08dfc5d07a1fa7))\n* hook fixed. ([54c3ea9](https://github.com/ArchiDog1998/FakeName/commit/54c3ea95a028d7a458a89eb72157baf2afd225e1))"
     },
     {
         "Author": "ArchiTed",
@@ -82,7 +82,7 @@
         "DownloadLinkInstall": "https://github.com/ArchiDog1998/RotationSolver/releases/download/v5.1.6/latest.zip",
         "AssemblyVersion": "5.1.6",
         "DownloadLinkUpdate": "https://github.com/ArchiDog1998/RotationSolver/releases/download/v5.1.6/latest.zip",
-        "DownloadCount": 10209,
+        "DownloadCount": 10301,
         "Changelog": "## [5.1.6](https://github.com/ArchiDog1998/RotationSolver/compare/v5.1.5...v5.1.6) (2024-07-23)\n\n\n### Bug Fixes\n\n* update submodules. ([bf29f83](https://github.com/ArchiDog1998/RotationSolver/commit/bf29f83e9e4270c6026fe18db6a724c6bcfb75f3))"
     },
     {
@@ -110,7 +110,7 @@
         "DownloadLinkInstall": "https://github.com/ArchiDog1998/QuestSolver/releases/download/v1.0.1/latest.zip",
         "AssemblyVersion": "1.0.1",
         "DownloadLinkUpdate": "https://github.com/ArchiDog1998/QuestSolver/releases/download/v1.0.1/latest.zip",
-        "DownloadCount": 160,
+        "DownloadCount": 184,
         "Changelog": "## [1.0.1](https://github.com/ArchiDog1998/QuestSolver/compare/v1.0.0...v1.0.1) (2024-07-24)\n\n\n### Bug Fixes\n\n* fixed some bugs. ([c88ce50](https://github.com/ArchiDog1998/QuestSolver/commit/c88ce50bc0cbd74bdeb21f96466e7205346fd2fc))"
     }
 ]
