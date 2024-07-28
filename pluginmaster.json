@@ -26,7 +26,7 @@
         "DownloadLinkInstall": "https://github.com/ArchiDog1998/ActionTimelineEx/releases/download/v1.4.13/latest.zip",
         "AssemblyVersion": "1.4.13",
         "DownloadLinkUpdate": "https://github.com/ArchiDog1998/ActionTimelineEx/releases/download/v1.4.13/latest.zip",
-        "DownloadCount": 1200,
+        "DownloadCount": 1217,
         "Changelog": "## [1.4.13](https://github.com/ArchiDog1998/ActionTimelineEx/compare/v1.4.12...v1.4.13) (2024-07-27)\n\n\n### Bug Fixes\n\n* fixed some rotation helper drawing things. ([15d5a05](https://github.com/ArchiDog1998/ActionTimelineEx/commit/15d5a05629e3d383ebff933948c9c53d18d2efb6))"
     },
     {
@@ -54,7 +54,7 @@
         "DownloadLinkInstall": "https://github.com/ArchiDog1998/FakeName/releases/download/v1.2.2/latest.zip",
         "AssemblyVersion": "1.2.2",
         "DownloadLinkUpdate": "https://github.com/ArchiDog1998/FakeName/releases/download/v1.2.2/latest.zip",
-        "DownloadCount": 1820,
+        "DownloadCount": 1828,
         "Changelog": "## [1.2.2](https://github.com/ArchiDog1998/FakeName/compare/v1.2.1...v1.2.2) (2024-07-25)\n\n\n### Bug Fixes\n\n* better nameplate. but not perfect. ([2dd43cd](https://github.com/ArchiDog1998/FakeName/commit/2dd43cd1a03936c2e4a0697bba08dfc5d07a1fa7))\n* hook fixed. ([54c3ea9](https://github.com/ArchiDog1998/FakeName/commit/54c3ea95a028d7a458a89eb72157baf2afd225e1))"
     },
     {
@@ -82,7 +82,7 @@
         "DownloadLinkInstall": "https://github.com/ArchiDog1998/RotationSolver/releases/download/v5.1.6/latest.zip",
         "AssemblyVersion": "5.1.6",
         "DownloadLinkUpdate": "https://github.com/ArchiDog1998/RotationSolver/releases/download/v5.1.6/latest.zip",
-        "DownloadCount": 10536,
+        "DownloadCount": 10596,
         "Changelog": "## [5.1.6](https://github.com/ArchiDog1998/RotationSolver/compare/v5.1.5...v5.1.6) (2024-07-23)\n\n\n### Bug Fixes\n\n* update submodules. ([bf29f83](https://github.com/ArchiDog1998/RotationSolver/commit/bf29f83e9e4270c6026fe18db6a724c6bcfb75f3))"
     },
     {
@@ -110,7 +110,7 @@
         "DownloadLinkInstall": "https://github.com/ArchiDog1998/QuestSolver/releases/download/v1.0.1/latest.zip",
         "AssemblyVersion": "1.0.1",
         "DownloadLinkUpdate": "https://github.com/ArchiDog1998/QuestSolver/releases/download/v1.0.1/latest.zip",
-        "DownloadCount": 282,
+        "DownloadCount": 301,
         "Changelog": "## [1.0.1](https://github.com/ArchiDog1998/QuestSolver/compare/v1.0.0...v1.0.1) (2024-07-24)\n\n\n### Bug Fixes\n\n* fixed some bugs. ([c88ce50](https://github.com/ArchiDog1998/QuestSolver/commit/c88ce50bc0cbd74bdeb21f96466e7205346fd2fc))"
     }
 ]
