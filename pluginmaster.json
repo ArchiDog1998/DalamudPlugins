@@ -23,11 +23,11 @@
         "IconUrl": "https://xivapi.com/i/000000/000073_hr1.png",
         "Punchline": "Show your actions in real-time.",
         "AcceptsFeedback": true,
-        "DownloadLinkInstall": "https://github.com/ArchiDog1998/ActionTimelineEx/releases/download/v1.4.14/latest.zip",
-        "AssemblyVersion": "1.4.14",
-        "DownloadLinkUpdate": "https://github.com/ArchiDog1998/ActionTimelineEx/releases/download/v1.4.14/latest.zip",
-        "DownloadCount": 1223,
-        "Changelog": "## [1.4.14](https://github.com/ArchiDog1998/ActionTimelineEx/compare/v1.4.13...v1.4.14) (2024-07-28)\n\n\n### Bug Fixes\n\n* better way about getting recast. ([03c36cc](https://github.com/ArchiDog1998/ActionTimelineEx/commit/03c36cc23d6dad57cd10304dc3efcb6f9eebc50c))\n* drawing fix. ([a179c7a](https://github.com/ArchiDog1998/ActionTimelineEx/commit/a179c7aacdcd0629a8e5e57f4795d620516ce470))\n* remove the custom recast time. ([4178733](https://github.com/ArchiDog1998/ActionTimelineEx/commit/4178733806eaeacfed466c81ea9bd2d1ebf1dafb))\n* window style fix. ([35d3e81](https://github.com/ArchiDog1998/ActionTimelineEx/commit/35d3e81271aaa1f3b84d2ed5533617fda0a11ea1))"
+        "DownloadLinkInstall": "https://github.com/ArchiDog1998/ActionTimelineEx/releases/download/v1.4.15/latest.zip",
+        "AssemblyVersion": "1.4.15",
+        "DownloadLinkUpdate": "https://github.com/ArchiDog1998/ActionTimelineEx/releases/download/v1.4.15/latest.zip",
+        "DownloadCount": 1220,
+        "Changelog": "## [1.4.15](https://github.com/ArchiDog1998/ActionTimelineEx/compare/v1.4.14...v1.4.15) (2024-07-30)\n\n\n### Bug Fixes\n\n* feedback fix. ([551925e](https://github.com/ArchiDog1998/ActionTimelineEx/commit/551925efc1a25ef53080657301aa8c5338d41d71))"
     },
     {
         "Author": "ArchiTed",
@@ -54,7 +54,7 @@
         "DownloadLinkInstall": "https://github.com/ArchiDog1998/FakeName/releases/download/v1.2.2/latest.zip",
         "AssemblyVersion": "1.2.2",
         "DownloadLinkUpdate": "https://github.com/ArchiDog1998/FakeName/releases/download/v1.2.2/latest.zip",
-        "DownloadCount": 1854,
+        "DownloadCount": 1855,
         "Changelog": "## [1.2.2](https://github.com/ArchiDog1998/FakeName/compare/v1.2.1...v1.2.2) (2024-07-25)\n\n\n### Bug Fixes\n\n* better nameplate. but not perfect. ([2dd43cd](https://github.com/ArchiDog1998/FakeName/commit/2dd43cd1a03936c2e4a0697bba08dfc5d07a1fa7))\n* hook fixed. ([54c3ea9](https://github.com/ArchiDog1998/FakeName/commit/54c3ea95a028d7a458a89eb72157baf2afd225e1))"
     },
     {
@@ -79,11 +79,11 @@
         "IconUrl": "https://raw.githubusercontent.com/ArchiDog1998/RotationSolver/main/Images/Logo.png",
         "Punchline": "Analyses combat information in every frame and finds the best action.",
         "AcceptsFeedback": true,
-        "DownloadLinkInstall": "https://github.com/ArchiDog1998/RotationSolver/releases/download/v5.1.8/latest.zip",
-        "AssemblyVersion": "5.1.8",
-        "DownloadLinkUpdate": "https://github.com/ArchiDog1998/RotationSolver/releases/download/v5.1.8/latest.zip",
-        "DownloadCount": 9985,
-        "Changelog": "## [5.1.8](https://github.com/ArchiDog1998/RotationSolver/compare/v5.1.7...v5.1.8) (2024-07-29)\r\n\r\n\r\n### Bug Fixes\r\n\r\n* interact with atle. ([dede753](https://github.com/ArchiDog1998/RotationSolver/commit/dede7531c60a526857ce331afe50657773f84837))\r\n* mnk base ready, positional fix and state fix. ([fe4e52e](https://github.com/ArchiDog1998/RotationSolver/commit/fe4e52e6050dc748c4674a96ea93e338c441673e))\r\n* positional fix. ([fe21906](https://github.com/ArchiDog1998/RotationSolver/commit/fe21906cec954a4af284f375fb3bfdf3f0bc8468))"
+        "DownloadLinkInstall": "https://github.com/ArchiDog1998/RotationSolver/releases/download/v5.1.9/latest.zip",
+        "AssemblyVersion": "5.1.9",
+        "DownloadLinkUpdate": "https://github.com/ArchiDog1998/RotationSolver/releases/download/v5.1.9/latest.zip",
+        "DownloadCount": 9124,
+        "Changelog": "## [5.1.9](https://github.com/ArchiDog1998/RotationSolver/compare/v5.1.8...v5.1.9) (2024-07-30)\n\n\n### Bug Fixes\n\n* add positional drawing. ([96bd1d3](https://github.com/ArchiDog1998/RotationSolver/commit/96bd1d3212b4ce2bd0f4f4cf3f56259e7b541fff))\n* positional drawing fix. ([747788b](https://github.com/ArchiDog1998/RotationSolver/commit/747788bb8711785da3422c99911b142a4c3f068b))"
     },
     {
         "Author": "ArchiTed",
@@ -110,7 +110,7 @@
         "DownloadLinkInstall": "https://github.com/ArchiDog1998/QuestSolver/releases/download/v1.0.1/latest.zip",
         "AssemblyVersion": "1.0.1",
         "DownloadLinkUpdate": "https://github.com/ArchiDog1998/QuestSolver/releases/download/v1.0.1/latest.zip",
-        "DownloadCount": 375,
+        "DownloadCount": 380,
         "Changelog": "## [1.0.1](https://github.com/ArchiDog1998/QuestSolver/compare/v1.0.0...v1.0.1) (2024-07-24)\n\n\n### Bug Fixes\n\n* fixed some bugs. ([c88ce50](https://github.com/ArchiDog1998/QuestSolver/commit/c88ce50bc0cbd74bdeb21f96466e7205346fd2fc))"
     }
 ]
