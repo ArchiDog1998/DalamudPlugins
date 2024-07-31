@@ -26,7 +26,7 @@
         "DownloadLinkInstall": "https://github.com/ArchiDog1998/ActionTimelineEx/releases/download/v1.4.15/latest.zip",
         "AssemblyVersion": "1.4.15",
         "DownloadLinkUpdate": "https://github.com/ArchiDog1998/ActionTimelineEx/releases/download/v1.4.15/latest.zip",
-        "DownloadCount": 1222,
+        "DownloadCount": 1238,
         "Changelog": "## [1.4.15](https://github.com/ArchiDog1998/ActionTimelineEx/compare/v1.4.14...v1.4.15) (2024-07-30)\n\n\n### Bug Fixes\n\n* feedback fix. ([551925e](https://github.com/ArchiDog1998/ActionTimelineEx/commit/551925efc1a25ef53080657301aa8c5338d41d71))"
     },
     {
@@ -54,7 +54,7 @@
         "DownloadLinkInstall": "https://github.com/ArchiDog1998/FakeName/releases/download/v1.2.2/latest.zip",
         "AssemblyVersion": "1.2.2",
         "DownloadLinkUpdate": "https://github.com/ArchiDog1998/FakeName/releases/download/v1.2.2/latest.zip",
-        "DownloadCount": 1855,
+        "DownloadCount": 1858,
         "Changelog": "## [1.2.2](https://github.com/ArchiDog1998/FakeName/compare/v1.2.1...v1.2.2) (2024-07-25)\n\n\n### Bug Fixes\n\n* better nameplate. but not perfect. ([2dd43cd](https://github.com/ArchiDog1998/FakeName/commit/2dd43cd1a03936c2e4a0697bba08dfc5d07a1fa7))\n* hook fixed. ([54c3ea9](https://github.com/ArchiDog1998/FakeName/commit/54c3ea95a028d7a458a89eb72157baf2afd225e1))"
     },
     {
@@ -82,7 +82,7 @@
         "DownloadLinkInstall": "https://github.com/ArchiDog1998/RotationSolver/releases/download/v5.1.9/latest.zip",
         "AssemblyVersion": "5.1.9",
         "DownloadLinkUpdate": "https://github.com/ArchiDog1998/RotationSolver/releases/download/v5.1.9/latest.zip",
-        "DownloadCount": 9145,
+        "DownloadCount": 9290,
         "Changelog": "## [5.1.9](https://github.com/ArchiDog1998/RotationSolver/compare/v5.1.8...v5.1.9) (2024-07-30)\n\n\n### Bug Fixes\n\n* add positional drawing. ([96bd1d3](https://github.com/ArchiDog1998/RotationSolver/commit/96bd1d3212b4ce2bd0f4f4cf3f56259e7b541fff))\n* positional drawing fix. ([747788b](https://github.com/ArchiDog1998/RotationSolver/commit/747788bb8711785da3422c99911b142a4c3f068b))"
     },
     {
@@ -110,7 +110,7 @@
         "DownloadLinkInstall": "https://github.com/ArchiDog1998/QuestSolver/releases/download/v1.0.2/latest.zip",
         "AssemblyVersion": "1.0.2",
         "DownloadLinkUpdate": "https://github.com/ArchiDog1998/QuestSolver/releases/download/v1.0.2/latest.zip",
-        "DownloadCount": 381,
+        "DownloadCount": 446,
         "Changelog": "## [1.0.2](https://github.com/ArchiDog1998/QuestSolver/compare/v1.0.1...v1.0.2) (2024-07-30)\n\n\n### Bug Fixes\n\n* better leve! ([e4b0d70](https://github.com/ArchiDog1998/QuestSolver/commit/e4b0d708991dcd1a5cf185003ff7ac2ade3e647e))"
     }
 ]
