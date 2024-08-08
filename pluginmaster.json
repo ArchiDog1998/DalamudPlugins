@@ -82,7 +82,7 @@
         "DownloadLinkInstall": "https://github.com/ArchiDog1998/RotationSolver/releases/download/v5.1.10/latest.zip",
         "AssemblyVersion": "5.1.10",
         "DownloadLinkUpdate": "https://github.com/ArchiDog1998/RotationSolver/releases/download/v5.1.10/latest.zip",
-        "DownloadCount": 9327,
+        "DownloadCount": 9441,
         "Changelog": "## [5.1.10](https://github.com/ArchiDog1998/RotationSolver/compare/v5.1.9...v5.1.10) (2024-08-07)\n\n\n### Bug Fixes\n\n* add status auto check. ([8bec221](https://github.com/ArchiDog1998/RotationSolver/commit/8bec221e261870af48cc33c5aa2d66a1d3bbe6c7))\n* update submodule. and some action base update. ([3243e9d](https://github.com/ArchiDog1998/RotationSolver/commit/3243e9d5e875496c422cf03a79816fb6ca09541e))"
     },
     {
@@ -110,7 +110,7 @@
         "DownloadLinkInstall": "https://github.com/ArchiDog1998/QuestSolver/releases/download/v1.0.3/latest.zip",
         "AssemblyVersion": "1.0.3",
         "DownloadLinkUpdate": "https://github.com/ArchiDog1998/QuestSolver/releases/download/v1.0.3/latest.zip",
-        "DownloadCount": 655,
+        "DownloadCount": 657,
         "Changelog": "## [1.0.3](https://github.com/ArchiDog1998/QuestSolver/compare/v1.0.2...v1.0.3) (2024-07-31)\n\n\n### Bug Fixes\n\n* leve solver fix. ([727d88b](https://github.com/ArchiDog1998/QuestSolver/commit/727d88be95c495957734b4f6a354161b6a92e88d))"
     }
 ]
