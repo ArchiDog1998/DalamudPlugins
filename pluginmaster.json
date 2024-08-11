@@ -26,7 +26,7 @@
         "DownloadLinkInstall": "https://github.com/ArchiDog1998/ActionTimelineEx/releases/download/v1.4.15/latest.zip",
         "AssemblyVersion": "1.4.15",
         "DownloadLinkUpdate": "https://github.com/ArchiDog1998/ActionTimelineEx/releases/download/v1.4.15/latest.zip",
-        "DownloadCount": 1301,
+        "DownloadCount": 1302,
         "Changelog": "## [1.4.15](https://github.com/ArchiDog1998/ActionTimelineEx/compare/v1.4.14...v1.4.15) (2024-07-30)\n\n\n### Bug Fixes\n\n* feedback fix. ([551925e](https://github.com/ArchiDog1998/ActionTimelineEx/commit/551925efc1a25ef53080657301aa8c5338d41d71))"
     },
     {
@@ -54,7 +54,7 @@
         "DownloadLinkInstall": "https://github.com/ArchiDog1998/FakeName/releases/download/v1.2.2/latest.zip",
         "AssemblyVersion": "1.2.2",
         "DownloadLinkUpdate": "https://github.com/ArchiDog1998/FakeName/releases/download/v1.2.2/latest.zip",
-        "DownloadCount": 1903,
+        "DownloadCount": 1904,
         "Changelog": "## [1.2.2](https://github.com/ArchiDog1998/FakeName/compare/v1.2.1...v1.2.2) (2024-07-25)\n\n\n### Bug Fixes\n\n* better nameplate. but not perfect. ([2dd43cd](https://github.com/ArchiDog1998/FakeName/commit/2dd43cd1a03936c2e4a0697bba08dfc5d07a1fa7))\n* hook fixed. ([54c3ea9](https://github.com/ArchiDog1998/FakeName/commit/54c3ea95a028d7a458a89eb72157baf2afd225e1))"
     },
     {
@@ -82,7 +82,7 @@
         "DownloadLinkInstall": "https://github.com/ArchiDog1998/RotationSolver/releases/download/v5.1.12/latest.zip",
         "AssemblyVersion": "5.1.12",
         "DownloadLinkUpdate": "https://github.com/ArchiDog1998/RotationSolver/releases/download/v5.1.12/latest.zip",
-        "DownloadCount": 8427,
+        "DownloadCount": 8564,
         "Changelog": "## [5.1.12](https://github.com/ArchiDog1998/RotationSolver/compare/v5.1.11...v5.1.12) (2024-08-10)\n\n\n### Bug Fixes\n\n* local. ([823d24e](https://github.com/ArchiDog1998/RotationSolver/commit/823d24e3d9f2b008766dc392fba55f71bcfade1e))\n* new rpr base file. ([a2b295f](https://github.com/ArchiDog1998/RotationSolver/commit/a2b295f1aa071cab93a7038874f92ac8331d3ad0))\n* use NRender to draw vfx. ([677162e](https://github.com/ArchiDog1998/RotationSolver/commit/677162e2bca91d7cf179dac29be9633d9a61c86a))"
     },
     {
@@ -110,7 +110,7 @@
         "DownloadLinkInstall": "https://github.com/ArchiDog1998/QuestSolver/releases/download/v1.0.3/latest.zip",
         "AssemblyVersion": "1.0.3",
         "DownloadLinkUpdate": "https://github.com/ArchiDog1998/QuestSolver/releases/download/v1.0.3/latest.zip",
-        "DownloadCount": 693,
+        "DownloadCount": 697,
         "Changelog": "## [1.0.3](https://github.com/ArchiDog1998/QuestSolver/compare/v1.0.2...v1.0.3) (2024-07-31)\n\n\n### Bug Fixes\n\n* leve solver fix. ([727d88b](https://github.com/ArchiDog1998/QuestSolver/commit/727d88be95c495957734b4f6a354161b6a92e88d))"
     }
 ]
